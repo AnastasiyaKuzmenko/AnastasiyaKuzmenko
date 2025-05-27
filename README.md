@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+
+
+
+<!-- GitHub statistics -->
+
+https://github-readme-stats.vercel.app/api?username=AnastasiyaKuzmenko&theme=catppuccin_mocha (GitHub Stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiyaKuzmenko&layout=compact&count_private=true&theme=catppuccin_mocha (GitHub Stats)
+
+
 <!--
 **AnastasiyaKuzmenko/AnastasiyaKuzmenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
